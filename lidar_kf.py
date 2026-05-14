@@ -1,5 +1,5 @@
 """
-Project 2: LiDAR-Based Odometry with Kalman Filter Integration
+LiDAR-Based Odometry with Kalman Filter Integration
 Author: Rohit Reddy Udumula
 
 This project extends the EKF vehicle localization system (Project 1) by replacing
